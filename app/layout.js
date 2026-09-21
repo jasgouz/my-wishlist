@@ -1,3 +1,1 @@
-import './globals.css';
-export const metadata = { title: 'Мои хотелки', description: 'Личный список желаний' };
-export default function RootLayout({ children }) { return <html lang="ru"><body>{children}</body></html>; }
+import './globals.css'; export const metadata={title:'Мои хотелки',description:'Личный список желаний'}; export default function RootLayout({children}){return <html lang="ru"><body>{children}</body></html>}
